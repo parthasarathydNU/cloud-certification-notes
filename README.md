@@ -11,7 +11,6 @@ This folder contains notes on various AWS services and functionalities. The note
 * **ChatGPT Conversations:** This folder contains notes derived from conversations with ChatGPT about specific AWS concepts (e.g., NLB vs NAT vs ALB.md). 
 * **Mock Tests:** This folder contains notes and resources related to mock tests, including links, reviews, and a progress tracker (Mock Test Progress.md). Images related to mock tests are stored in a subfolder (images).
 * **Images:** This folder contains general purpose images that may not be specific to a single topic. 
-* **LICENSE:** This file specifies the license under which these notes are distributed (if applicable).
 
 **Using these Notes:**
 
