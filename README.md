@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Images/aws-certified-solutions-architect-associate.png" />
+</p>
+
+
 ## AWS Notes - README
 
 This folder contains notes on various AWS services and functionalities. The notes are intended to be a comprehensive study guide for those preparing for AWS certifications or simply wanting to learn more about AWS.
